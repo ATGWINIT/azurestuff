@@ -1,0 +1,34 @@
+Länkar
+
+Länk till OneDrive-mappen: http://1drv.ms/1IMtiMe
+
+Aktivera AZURE PASS CODE: https://www.microsoftazurepass.com/
+
+
+Länksamling
+=================================================
+
+Installera PowerShell
+https://azure.microsoft.com/sv-se/documentation/articles/powershell-install-configure/
+https://azure.microsoft.com/sv-se/documentation/articles/xplat-cli-install/
+(windows) + R "powershell_ise.exe"
+
+ARM vs ASM (Deployment Models)
+https://azure.microsoft.com/en-us/documentation/articles/azure-classic-rm/
+
+Role-Based Secruity in ARM
+https://azure.microsoft.com/en-gb/documentation/articles/role-based-access-built-in-roles/
+https://azure.microsoft.com/en-us/documentation/articles/role-based-access-control-configure/
+
+VM Availability Sets
+https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-manage-availability/
+http://blogs.technet.com/b/uspartner_ts2team/archive/2014/03/17/windows-azure-availability-sets.aspx
+
+VNET ARM/ASM
+https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-create-vnet-arm-pportal/
+https://azure.microsoft.com/en-us/documentation/articles/vpn-gateway-create-site-to-site-rm-powershell/
+https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-arm-asm-s2s/
+
+Storage Browsers
+http://storageexplorer.com/
+https://azurestorage.azurewebsites.net/login.aspx
